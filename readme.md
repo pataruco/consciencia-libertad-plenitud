@@ -50,3 +50,9 @@ Leyes Universales conectan con el cosmos
 Leyes Naturales conectan con la tierra
 
 > El agua que caiga en la luna llena despues del equinoccio primaveral, semilla que le pegue GERMINA!
+
+### Pregunta
+
+Partiendo de las perlas que soltó el Sifu: Si soy consciente que soy un volumen que se mueve en el TIEMPO y ESPACIO, sería extraordinario saber donde y cuando habito. En ese sentido mi pregunta es:
+
+Si el agua que cae en la luna llena despues del equinoccio primaveral (TIEMPO), moja una semilla (sueños), estará germinará
