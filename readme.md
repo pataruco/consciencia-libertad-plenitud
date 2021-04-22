@@ -103,8 +103,12 @@ En equinoccio es cuando la energia del viento solar se iguala a la nergia electr
 
 Proceso elemental fundamentales:
 
-- Primavera: Madera
-- Verano: Fuego
-- Otoño: Metal
-- Invierno: Agua --> tranformacion rapida
-- Madera --> Flora
+- Primavera: Madera --> Flora --> verde
+- Verano: Fuego --> Rojo
+- Otoño: Metal --> gris
+- Invierno: Agua --> tranformacion rapida ---> azul
+- Tierra: Ocre -- amarillo --terracota
+
+### Pregunta
+
+Como es la truculencia de la energia en el hemisferio norte
