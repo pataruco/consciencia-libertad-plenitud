@@ -55,4 +55,4 @@ Leyes Naturales conectan con la tierra
 
 Partiendo de las perlas que soltó el Sifu: Si soy consciente que soy un volumen que se mueve en el TIEMPO y ESPACIO, sería extraordinario saber donde y cuando habito. En ese sentido mi pregunta es:
 
-Si el agua que cae en la luna llena despues del equinoccio primaveral (TIEMPO), moja una semilla (sueños), estará germinará
+Si el agua que cae en la luna llena despues del equinoccio primaveral (TIEMPO), moja una semilla (sueños), estará germinará. Por eso infiero que, dónde (ESPACIO) también debe ser importante, ¿Cómo puedo indetificar/reconocer ese ESPACIO?
