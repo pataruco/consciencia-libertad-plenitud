@@ -124,16 +124,17 @@ Como es la relacion de la energia en el hemisferio norte con nosotros
 
 - la explicacion va directo a la mente y complica, si vamos a las experimentacion ... implica
 
-| Madera         | Fuego             | Tierra                   | Metal                      | Agua        |
-| -------------- | ----------------- | ------------------------ | -------------------------- | ----------- |
-| Oriente        | Sur               | Centro                   | Occidente                  | Norte       |
-| Primavera      | Verano            | Veranillo                | Otoño                      | Invierno    |
-| Ira            | Alegria           | Ansiedad                 | Tristeza                   | Miedo       |
-| Luna creciente | Luna Llena        |                          | Luna Menguante             | Luna Llena  |
-| Vista          | Gusto             | Tacto                    | Olfato                     | Oido        |
-| Ojos           | Lengua            | labios y pulpejos        | Nariz                      | Orejas      |
-| Amanecer       | Medio dia         |                          | Atardecer                  | Media noche |
-| Verde / Rosado | Rojo/Naranjas     | Terracota /ocre /mostaza | Blanco / negro / gris      | Azul        |
-| Acido          | Picante que quema | Dulce                    | Amargo / Picante que corta | Salado      |
+| Madera                  | Fuego              | Tierra                       | Metal                      | Agua            |
+| ----------------------- | ------------------ | ---------------------------- | -------------------------- | --------------- |
+| Oriente                 | Sur                | Centro                       | Occidente                  | Norte           |
+| Primavera               | Verano             | Veranillo                    | Otoño                      | Invierno        |
+| Ira                     | Alegria            | Ansiedad                     | Tristeza                   | Miedo           |
+| Luna creciente          | Luna Llena         |                              | Luna Menguante             | Luna Llena      |
+| Vista                   | Gusto              | Tacto                        | Olfato                     | Oido            |
+| Ojos                    | Lengua             | labios y puntas de los dedos | Nariz                      | Orejas          |
+| Amanecer                | Medio dia          |                              | Atardecer                  | Media noche     |
+| Verde / Rosado          | Rojo / Naranjas    | Terracota / ocre /mostaza    | Blanco / negro / gris      | Azul            |
+| Acido                   | Picante que quema  | Dulce                        | Amargo / Picante que corta | Salado          |
+| Flores / Brotes / Hojas | Frutos perecederos | tuberculos / raices dulces   | semillas / granos          | Troncos / ramas |
 
 - Cuando potencio un proceso fumdamental tambien potencia el hijo
