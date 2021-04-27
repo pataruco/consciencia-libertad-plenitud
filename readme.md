@@ -96,7 +96,7 @@ En equinoccio es cuando la energia del viento solar se iguala a la nergia electr
 
 ### los dias
 
-- los dias tambien se dividen en 8 tiempos con 5 calidades dditintas
+- los dias tambien se dividen en 8 tiempos con 5 calidades distintas
 - 4:48 min se dividen
 
 ### Calendario chino
@@ -112,3 +112,28 @@ Proceso elemental fundamentales:
 ### Pregunta
 
 Como es la relacion de la energia en el hemisferio norte con nosotros
+
+## Día 3
+
+- Mientras nos acercamos al Ecuador vammos rapido
+- En latitudes mas lejanos van mas lenta por lo tanto las energias se manfiestan mas nitida
+- La tierra se mueve en el espacio como una pelota volleyball dentro de una piscina
+- Si puedo entender lo que pasa afuera, puedo entender lo que pasa adentro
+
+### El circula de construction y destructions de los procesos elementales
+
+- la explicacion va directo a la mente y complica, si vamos a las experimentacion ... implica
+
+| Madera         | Fuego             | Tierra                   | Metal                      | Agua        |
+| -------------- | ----------------- | ------------------------ | -------------------------- | ----------- |
+| Oriente        | Sur               | Centro                   | Occidente                  | Norte       |
+| Primavera      | Verano            | Veranillo                | Otoño                      | Invierno    |
+| Ira            | Alegria           | Ansiedad                 | Tristeza                   | Miedo       |
+| Luna creciente | Luna Llena        |                          | Luna Menguante             | Luna Llena  |
+| Vista          | Gusto             | Tacto                    | Olfato                     | Oido        |
+| Ojos           | Lengua            | labios y pulpejos        | Nariz                      | Orejas      |
+| Amanecer       | Medio dia         |                          | Atardecer                  | Media noche |
+| Verde / Rosado | Rojo/Naranjas     | Terracota /ocre /mostaza | Blanco / negro / gris      | Azul        |
+| Acido          | Picante que quema | Dulce                    | Amargo / Picante que corta | Salado      |
+
+- Cuando potencio un proceso fumdamental tambien potencia el hijo
