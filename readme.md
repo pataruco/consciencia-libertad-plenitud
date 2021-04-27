@@ -111,4 +111,4 @@ Proceso elemental fundamentales:
 
 ### Pregunta
 
-Como es la truculencia de la energia en el hemisferio norte
+Como es la relacion de la energia en el hemisferio norte con nosotros
