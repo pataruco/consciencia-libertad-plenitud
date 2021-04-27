@@ -138,3 +138,8 @@ Como es la relacion de la energia en el hemisferio norte con nosotros
 | Flores / Brotes / Hojas | Frutos perecederos | tuberculos / raices dulces   | semillas / granos          | Troncos / ramas |
 
 - Cuando potencio un proceso fumdamental tambien potencia el hijo
+- Todo elemento tiene conexion con los demas:
+  - Puede ser controlado
+  - Controla
+  - Es hijo
+  - Es Madre
