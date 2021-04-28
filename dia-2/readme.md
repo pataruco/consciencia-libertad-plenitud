@@ -57,10 +57,18 @@ En equinoccio es cuando la energia del viento solar se iguala a la nergia electr
 - Los espacios entre esos dias son de 18
 - El año tiene 8 tiempos distintos con 5 calidades distintas
 
-### los dias
+![](./../assets/calendario-solar.svg)
+
+## Lunar
+
+![](../assets/calendario-luna.svg)
+
+### Dias
 
 - los dias tambien se dividen en 8 tiempos con 5 calidades distintas
 - 4:48 min se dividen
+
+![](../assets/calendario-diario.svg)
 
 ### Calendario chino
 

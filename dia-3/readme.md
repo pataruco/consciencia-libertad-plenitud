@@ -5,6 +5,9 @@
 - La tierra se mueve en el espacio como una pelota volleyball dentro de una piscina
 - Si puedo entender lo que pasa afuera, puedo entender lo que pasa adentro
 
+![](../assets/puntos-cardinales-linea.svg)
+![](../assets/puntos-cardinales.svg)
+
 ### El circula de construction y destructions de los procesos elementales
 
 - la explicacion va directo a la mente y complica, si vamos a las experimentacion ... implica
@@ -28,3 +31,5 @@
   - Controla
   - Es hijo
   - Es Madre
+
+![](../assets/construccion-destruccion.svg)
