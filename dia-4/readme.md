@@ -27,3 +27,5 @@
 - Táctica
 
 El filtro etico: Estoy utlizando estas herramientas para generar mayor valor
+
+## Tarea
