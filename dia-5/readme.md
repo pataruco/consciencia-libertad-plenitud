@@ -24,6 +24,8 @@
 | Emoción | Percepción |        | Razón      | Intuición |
 | Músico  | Acción     |        | Estrategia | Visión    |
 
+![](../assets/puntos-cardinales-naturalezas.svg)
+
 ### Cuerpo
 
 - Basaria todas sus interacciones con las percepción sensorial
