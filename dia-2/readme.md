@@ -12,7 +12,7 @@
 
 En luna menguante es cuando tengo que podar (pelo, uñas, cualquier cosa
 
-### Energia cosmica
+### Energia cósmica
 
 - Luna
 - Sol

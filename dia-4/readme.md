@@ -15,6 +15,8 @@
 | Musico           | Guerrero      | Sueño             | Sabio              | Mago              |
 | Cuerpo emocional | Cuerpo fisico | cuerpo energetico | cuerpo de la razon | cuerpo intuitivo? |
 
+![](../assets/puntos-cardinales-arquetipos.svg)
+
 - El soñador esta en el cuerpo energetico
 - El Sabio esta en el cuerpo de la razon
 - Corazon es el hogar del alma
@@ -27,5 +29,3 @@
 - Táctica
 
 El filtro etico: Estoy utlizando estas herramientas para generar mayor valor
-
-## Tarea
