@@ -63,7 +63,3 @@
 - [Pantocrato tretamorfo](https://en.wikipedia.org/wiki/Tetramorph)
 - [Cristo pantocrato](https://en.wikipedia.org/wiki/Christ_Pantocrator)
 - [Theun Mares](https://www.toltec-legacy.com/public/introduction)
-
-| Madera | Fuego   | Tierra   | Metal      | Agua        |
-| ------ | ------- | -------- | ---------- | ----------- |
-| Crecer | Ofrecer | Sostener | Comprender | Transformar |

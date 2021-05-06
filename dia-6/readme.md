@@ -2,6 +2,13 @@
 
 ### Pedro
 
+- **Mente**
+- **Corazon**
+- Cuerpo
+- Alma
+
+> Significa que mis naturalezas dominantes pueden intercambiarse
+
 ### Peter
 
 ### Miranda
