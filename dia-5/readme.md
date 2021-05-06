@@ -57,3 +57,9 @@
 - Nos recuerda
 - Nos toca el corazón
 - Vive en el pasado?
+
+## Investigar
+
+- [Pantocrato tretamorfo](https://en.wikipedia.org/wiki/Tetramorph)
+- [Cristo pantocrato](https://en.wikipedia.org/wiki/Christ_Pantocrator)
+- [Theun Mares](https://www.toltec-legacy.com/public/introduction)
