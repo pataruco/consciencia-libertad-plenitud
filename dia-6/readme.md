@@ -11,9 +11,19 @@
 
 ### Peter
 
+- Mente
+- Alma
+- Corazon
+- Cuerpo
+
 ### Miranda
 
 ### Ana
+
+- Corazon
+- Mente
+- Alma
+- Cuerpo
 
 ## Clase
 
