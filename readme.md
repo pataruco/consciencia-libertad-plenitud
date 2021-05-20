@@ -20,3 +20,4 @@ para conscientemente elegir nuestros caminos y tener plenitud, es decir, tener m
 - [Dia 7](dia-7/readme.md)
 - [Dia 8](dia-8/readme.md)
 - [Dia 9](dia-9/readme.md)
+- [Dia 10](dia-10/readme.md)
