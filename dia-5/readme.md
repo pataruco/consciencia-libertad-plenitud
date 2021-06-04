@@ -58,6 +58,8 @@
 - Nos toca el corazón
 - Vive en el pasado?
 
+![](../assets/copa.jpg)
+
 ## Investigar
 
 - [Pantocrato tretamorfo](https://en.wikipedia.org/wiki/Tetramorph)

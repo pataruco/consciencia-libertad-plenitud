@@ -26,3 +26,5 @@
 - Cuerpo
   - Yin: Presa
   - Yang: Depredador
+
+![](../assets/caminos.jpg)

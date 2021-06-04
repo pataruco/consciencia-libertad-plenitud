@@ -25,4 +25,7 @@
 - Grasas
 - Vegetales
 
+![](../assets/villanos-invitados.png)
+![](../assets/calidad-de-alimentos.png)
+
 [William Duffy - Sugar Blues](https://www.amazon.co.uk/Sugar-Blues-William-Dufty/dp/0446343129)
