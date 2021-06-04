@@ -82,5 +82,3 @@
 #### Yo y con la realidad suprema (Dios) (salida)
 
 ![](../assets/procesos-de-vida.png)
-
-## Averiguar sobre [Rudolf Steiner](https://en.wikipedia.org/wiki/Rudolf_Steiner)

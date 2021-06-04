@@ -1,15 +1,20 @@
 # Consciencia, Libertad & Plenitud
 
-Este gitbook son mis apuntes sobre la iniciación sobre como crear un un mapa para reconectar con:
+Este gitbook son mis apuntes sobre la iniciación de como crear un un mapa para reconectar con:
 
 - Cosmos
 - Naturaleza
 - Humanidad
 - Espíritu
 
-para conscientemente elegir nuestros caminos y tener plenitud, es decir, tener mas herramientas para que conscientemente pueda planificar nuestra cotidianidad
+Para para que conscientemente pueda planificar mi cotidianidad, elegir que caminos recorrer y tener plenitud.
 
-## Indice
+Como parte de este proceso, cree una calendario solar y lunar basado en los cinco procesos fundamentales de construcción y destrucción:
+
+- Página Web [https://calendar.pataruco.com/](https://calendar.pataruco.com/)
+- Repositorio de código [https://github.com/pataruco/wuxing-calendar](https://github.com/pataruco/wuxing-calendar)
+
+## Índice
 
 - [Día 1](dia-1/readme.md)
 - [Día 2](dia-2/readme.md)
